@@ -1,10 +1,10 @@
 actors:
-  MofuMofu:
+  mofumofu:
     image_url: /images/actors/nekochan.jpg
-    name: もふもふ
+    name: mofumofu
     url: https://twitter.com/froakie0021
-author: もふもふ
-description: ひよこなもふもふちゃんと技術同人誌.fm
+author: mofumofu
+description: ひよこなもふちゃんは技術の本がすき
 description_long: ひよこ（≒初心者）エンジニアな人の話と技術書の話をもふもふちゃんがねこちゃんに向かってするPodcast
 email: froakie002@gmail.com
 exclude:
@@ -26,4 +26,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: ひよこなもふもふちゃんと技術同人誌.fm
-url: https://mofumofu2.github.io/
+url: https://mofumofu2.github.io/hiyokoMofu-fm/
