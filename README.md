@@ -1,3 +1,3 @@
-# Yattecast
+# ひよこなもふもふちゃんと技術同人誌.fm
 
-https://r7kamura.github.io/yattecast/
+https://mofumofu2.github.io/
