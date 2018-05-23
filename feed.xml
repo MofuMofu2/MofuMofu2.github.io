@@ -24,6 +24,7 @@
     <googleplay:author>{{ site.author }}</googleplay:author>
     <googleplay:image href="{{ site.github.url }}/images/artwork.jpg" />
     <googleplay:description>{{site.description | xml_escape }}</googleplay:description>
+    <googleplay:category text="Technology"/>
     {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
