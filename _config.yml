@@ -3,6 +3,10 @@ actors:
     image_url: /images/actors/nekochan.jpg
     name: mofumofu
     url: https://twitter.com/froakie0021
+  oyakata:
+    image_url: /images/actors/oyakata.jpg
+    name: 親方
+    url: https://twitter.com/oyakata2438
 author: mofumofu
 description: ひよこなもふちゃんは技術の本がすき
 description_long: ひよこ（≒初心者）エンジニアな人の話と技術書の話をもふもふちゃんがねこちゃんに向かってするPodcast
