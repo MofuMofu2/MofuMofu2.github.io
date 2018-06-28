@@ -7,6 +7,11 @@ actors:
     image_url: /images/actors/oyakata.jpg
     name: 親方
     url: https://twitter.com/oyakata2438
+  yamashiro:
+    image_url: /images/actors/yamashiro.jpg
+    name: 山城
+    url: https://twitter.com/kurakake
+
 author: mofumofu
 description: ひよこなもふちゃんは技術の本がすき
 description_long: ひよこ（≒初心者）エンジニアな人の話と技術書の話をもふもふちゃんがねこちゃんに向かってするPodcast
